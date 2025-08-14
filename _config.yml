@@ -22,6 +22,7 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {title: "Scholar", url: "https://scholar.google.com/citations?user=UT1nU-sAAAAJ&hl=nl"}
   - {title: "PURE", url: "https://pure.itu.dk/en/persons/jaike-van-twiller"}
   - {file: "README.md", title: "About me", sidebaricon: address-card}
+  - {title: "Blog", file: "/blog.md"}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:jaiv@itu.dk"}
