@@ -8,4 +8,4 @@ Hi! I’m Jaike van Twiller, a postdoctoral researcher passionate about data-dri
 
 My research focuses on developing decision support systems using operations research and machine learning, aiming to improve operational outcomes while minimizing environmental impact. From transport and supply chain optimization to inventory and manufacturing management, I develop solutions that bridge academia and industry, turning complex challenges into actionable insights through collaborative projects.
 
-In teaching and supervision, I cover Reinforcement Learning in the Introduction to AI course and guide student projects ranging from maritime industry applications to game-solving challenges.
+In teaching and supervision, I cover reinforcement learning in the "Introduction to AI" course and guide student projects ranging from maritime industry applications to game-solving challenges.
