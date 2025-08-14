@@ -18,7 +18,9 @@ show_minimal: false             # remove all clutter
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {file: "archive.html", title: "Home", sidebaricon: home}
+  - {file: "CV_JaikeVanTwiller.pdf", title: "CV", sidebaricon: home}
+  - {title: "Scholar", url: "https://scholar.google.com/citations?user=UT1nU-sAAAAJ&hl=nl"}
+  - {title: "PURE", url: "https://pure.itu.dk/en/persons/jaike-van-twiller"}
   - {file: "README.md", title: "About me", sidebaricon: address-card}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
