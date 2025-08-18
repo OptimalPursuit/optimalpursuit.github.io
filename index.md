@@ -3,7 +3,6 @@
 layout: page
 title: 
 ---
-## About Me
 Hi! I’m Jaike van Twiller, a postdoctoral researcher passionate about data-driven decision-making for a brighter future, currently working at the [IT University of Copenhagen](https://en.itu.dk/) in the [Data Science section](https://en.itu.dk/Research/Research-Sections/Data-Science) and part of the [Maritime Hub](https://mhub.itu.dk/).
 
 ![Photo of Jaike](photo_zoomed_in.jpg)
