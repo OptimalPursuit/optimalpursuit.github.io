@@ -19,13 +19,13 @@ show_minimal: false             # remove all clutter
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: CV_JaikeVanTwiller.pdf, title: "CV"}
-  - {title: "PURE", url: "https://pure.itu.dk/en/persons/jaike-van-twiller"}
+  - {title: "LinkedIn", url: "https://www.linkedin.com/in/jaike-van-twiller/"}
+  - {title: "Pure", url: "https://pure.itu.dk/en/persons/jaike-van-twiller"}
+  - {title: "Google Scholar", icon: "fa-graduation-cap", url: "https://scholar.google.com/citations?user=UT1nU-sAAAAJ&hl=nl"}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:jaiv@itu.dk"}
   - {title: Github, icon: github, url: "https://github.com/optimalpursuit"}
-  - {title: LinkedIn, icon: "fa-linkedin", url: "https://www.linkedin.com/in/jaike-van-twiller/"}
-  - {title: Google Scholar, icon: "fa-graduation-cap", url: "https://scholar.google.com/citations?user=UT1nU-sAAAAJ&hl=nl"}
   # - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
