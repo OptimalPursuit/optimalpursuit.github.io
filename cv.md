@@ -6,6 +6,6 @@ permalink: /cv/
 
 # Download My CV
 
-<a href="{{ '/assets/CV_JaikeVanTwiller.pdf' | relative_url }}" download="JaikeVanTwiller_CV.pdf">
+<a href="{{ 'CV_JaikeVanTwiller.pdf' | relative_url }}" download="CV_JaikeVanTwiller.pdf">
   ⬇️ Click here to download my CV
 </a>
