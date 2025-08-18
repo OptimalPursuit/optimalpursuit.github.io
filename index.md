@@ -7,7 +7,9 @@ title:
 ![Photo of Jaike](photo_zoomed_in.jpg)
 
 Jaike van Twiller
+
 Postdoctoral Researcher
+
 Leveraging data-driven decision-making to make a brighter future!
 
 ## About Me
